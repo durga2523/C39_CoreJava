@@ -1,4 +1,4 @@
-package com.tns.dayfour.firstpackage;
+package com.tns.dayfour.firstpackage1;
 
 public class Person {
 	private String personName;

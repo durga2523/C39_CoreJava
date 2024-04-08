@@ -1,4 +1,4 @@
-package com.tns.dayfour.firstpackage;
+package com.tns.dayfour.firstpackage1;
 
 public class Executor {
 	public static void main(String[] args) { 

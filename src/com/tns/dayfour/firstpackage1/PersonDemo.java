@@ -1,4 +1,4 @@
-package com.tns.dayfour.firstpackage;
+package com.tns.dayfour.firstpackage1;
 import java.util.Scanner; 
 public class PersonDemo {
 	public static void main(String args[]) 

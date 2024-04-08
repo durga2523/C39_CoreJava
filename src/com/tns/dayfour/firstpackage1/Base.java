@@ -1,4 +1,4 @@
-package com.tns.dayfour.firstpackage;
+package com.tns.dayfour.firstpackage1;
 
 //Program to demonstrate Package and access modifiers 
 public class Base {
