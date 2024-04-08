@@ -1,4 +1,4 @@
-package com.tns.dayfour.thirdpackage;
+package com.tns.dayfour.thirdpackage3;
 
 public class PrivateConstructorDemo {
 	public static void main(String s[]) { 

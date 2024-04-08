@@ -1,4 +1,4 @@
-package org.dayfive.hierarchical;
+package org.dayfive.hierarchicalih;
 
 public class Person {
 	private String name;

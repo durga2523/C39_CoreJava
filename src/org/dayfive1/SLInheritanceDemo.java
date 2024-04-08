@@ -1,4 +1,6 @@
-package org.dayfive;
+package org.dayfive1;
+
+import org.dayfive1.Student;
 
 public class SLInheritanceDemo {
 	public static void main(String[] args) { 

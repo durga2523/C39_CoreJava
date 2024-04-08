@@ -1,6 +1,6 @@
-package com.tns.dayfour.secondpackage;
+package com.tns.dayfour.secondpackage2;
 
-import com.tns.dayfour.firstpackage.Base;
+import com.tns.dayfour.firstpackage1.Base;
 
 public class Executor {
 	public static void main(String[] args) { 

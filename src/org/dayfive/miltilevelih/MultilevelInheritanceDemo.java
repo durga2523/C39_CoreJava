@@ -1,4 +1,4 @@
-package org.dayfive.miltilevel;
+package org.dayfive.miltilevelih;
 
 public class MultilevelInheritanceDemo {
 	public static void main(String[] args) { 

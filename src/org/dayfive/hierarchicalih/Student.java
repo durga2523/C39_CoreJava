@@ -1,4 +1,4 @@
-package org.dayfive.hierarchical;
+package org.dayfive.hierarchicalih;
 
 public class Student extends Person {
 	private String clas;
